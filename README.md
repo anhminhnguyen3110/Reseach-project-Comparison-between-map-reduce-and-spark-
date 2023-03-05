@@ -1,5 +1,6 @@
 # Reseach-project-Comparison-between-map-reduce-and-spark-
-This is a project about compare between two frameworks using for analytic big data. One is Hadoop MapReduce framework
+This is a project about compare between two frameworks using for analytic big data. One is Hadoop MapReduce framework 
+Reseach paper: https://github.com/emyeucanha5/Reseach-project-Comparison-between-map-reduce-and-spark-/blob/main/HD_Project_Anh_Minh_Nguyen_103178955.pdf
 # Hadoop MapReduce
 # Successful creating a new folder in on the NameNode monitor web browser
 ![image](https://user-images.githubusercontent.com/57170354/222885564-4dec82b6-40d3-4b29-b756-9e4f854a9151.png)
